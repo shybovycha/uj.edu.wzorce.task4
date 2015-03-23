@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="task4/Program.cs">
+    <Files>
+      <File FileName="task4/Program.cs" Line="40" Column="40" />
+      <File FileName="task4/Pompa.cs" Line="10" Column="10" />
+      <File FileName="task4/Hamulec.cs" Line="10" Column="10" />
+      <File FileName="task4/Prad.cs" Line="10" Column="10" />
+      <File FileName="task4/Wzbudzac.cs" Line="10" Column="10" />
+      <File FileName="task4/Wentylator.cs" Line="10" Column="10" />
+      <File FileName="task4/ITurnable.cs" Line="24" Column="24" />
+      <File FileName="task4/Turnable.cs" Line="22" Column="22" />
+      <File FileName="task4/WentylatorFacade.cs" Line="99" Column="99" />
+      <File FileName="task4/GlownyWlacznik.cs" Line="56" Column="56" />
+      <File FileName="task4/IWentylatornaFabryka.cs" Line="10" Column="10" />
+      <File FileName="task4/FacadowaFabryka.cs" Line="10" Column="10" />
+      <File FileName="task4/WentylatorDekorator.cs" Line="29" Column="29" />
+      <File FileName="task4/DekoratorowaFabryka.cs" Line="88" Column="88" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
